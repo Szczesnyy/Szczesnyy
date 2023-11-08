@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MelaShef
+- 👋 Hi, I’m Jakub
 - 👀 My hobby is Tenis
-- 🌱 I’m currently learning Java Script, PHP and Python
+- 🌱 I’m currently learning Java Script, Java, C#, Python, Angular and Typescript
 - 📫 How to reach me --> szczesnyphotos1@gmail.com
 
 <!---
